@@ -1,0 +1,5 @@
+2026-04-05 15:41:39 [ERROR]: Email already registered
+Error: Email already registered
+    at AuthService.register (C:\Users\soura\Desktop\internship project\backend\services\authService.js:24:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async register (C:\Users\soura\Desktop\internship project\backend\controllers\authController.js:7:22)

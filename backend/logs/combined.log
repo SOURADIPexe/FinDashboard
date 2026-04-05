@@ -1,0 +1,22 @@
+2026-04-02 17:30:19 [INFO]: MongoDB connected: localhost
+2026-04-02 17:30:19 [INFO]: Server running on port 5000 in development mode
+2026-04-02 17:33:35 [INFO]: MongoDB connected: localhost
+2026-04-02 17:47:18 [INFO]: MongoDB connected: localhost
+2026-04-02 17:48:18 [INFO]: MongoDB connected: localhost
+2026-04-02 17:48:18 [INFO]: Server running on port 5000 in development mode
+2026-04-02 17:48:34 [INFO]: MongoDB connected: localhost
+2026-04-02 17:52:38 [INFO]: MongoDB connected: localhost
+2026-04-02 17:52:38 [INFO]: Server running on port 5000 in development mode
+2026-04-05 15:40:12 [INFO]: MongoDB connected: localhost
+2026-04-05 15:40:12 [INFO]: Server running on port 5000 in development mode
+2026-04-05 15:41:39 [ERROR]: Email already registered
+Error: Email already registered
+    at AuthService.register (C:\Users\soura\Desktop\internship project\backend\services\authService.js:24:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async register (C:\Users\soura\Desktop\internship project\backend\controllers\authController.js:7:22)
+2026-04-05 15:45:50 [INFO]: MongoDB connected: localhost
+2026-04-05 15:45:50 [INFO]: Server running on port 5000 in development mode
+2026-04-05 15:52:06 [INFO]: MongoDB connected: localhost
+2026-04-05 15:52:06 [INFO]: Server running on port 5000 in development mode
+2026-04-05 16:09:05 [INFO]: MongoDB connected: localhost
+2026-04-05 16:09:05 [INFO]: Server running on port 5000 in development mode
